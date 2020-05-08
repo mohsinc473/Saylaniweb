@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+.cols{
+    /* border: 2px solid red; */
+    background-color:  #316DC3;
+    /* height: 45px; */
+}
+ /* .mdr{
+     border: 2px solid red; 
+      height: 70px; 
+}   */
+.li1{
+    display: inline-block;
+    list-style-type: none;
+}
+.bgc{
+    background-color: rgb(44, 82, 252);;
+}
+.miss{
+    /* border: 2px solid red; */
+    width: 75%;
+}
+.con{
+    /* border: 2px solid red; */
+    width: 75%;
+    height: 210px;
+}
+.main{
+    /* border: 2px solid red; */
+    height: 230px;
+    display: flex;
+    justify-content: space-around;
+}
+.dbox{
+    width: 32%;
+    height: 90%;
+    /* border: 2px solid red; */
+}
+.telpng{
+    list-style-type: none;
+}
+    
